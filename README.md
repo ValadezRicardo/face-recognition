@@ -102,7 +102,7 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme en [tu correo electrónico o perfil en GitHub].
+Si tienes alguna pregunta o comentario, no dudes en contactarme en valadezricardo159@gmIL.com o en mi github ValadezRicardo.
 ```
 
 ### Cambios importantes en este `README.md`:
